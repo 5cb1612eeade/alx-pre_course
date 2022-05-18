@@ -1,3 +1,3 @@
 # Newtt-
 My Newtt repository
-I love ☕: 🍔: pizza: 
+I love ☕: 🍔: :pizza: 
